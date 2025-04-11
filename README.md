@@ -11,9 +11,9 @@ This repository includes work done as part of the **Lusophone Technological Wish
   *To test the script, open `Task1.html` in a browser and check the results in the web page or the browser console using Developer Tools (Inspect Element > Console).*
 
 - **Tools & Technologies Used:**  
-  1. JavaScript (DOM manipulation)  
-  2. HTML  
-  3. Visual Studio Code
+1. JavaScript (DOM manipulation)  
+2. HTML  
+3. Visual Studio Code
 
 ## [Task 2: Python URL Status Checker](https://github.com/NishaChandila/Wikimedia-Tasks/tree/main/Task2)
 
