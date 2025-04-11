@@ -2,7 +2,7 @@
 
 This repository includes work done as part of the **Lusophone Technological Wishlist** initiatives proposed by the Wikimedia Foundation.
 
-## Task 1: JavaScript JSON Formatter
+## [Task 1: JavaScript JSON Formatter](./task1)
 
 - **Task Title:** Addressing the new Lusophone technological wishlist proposals - Task 1  
 - **Phabricator Link:** [T389647](https://phabricator.wikimedia.org/T389647)  
