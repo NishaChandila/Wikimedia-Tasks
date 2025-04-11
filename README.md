@@ -22,7 +22,7 @@ This repository includes work done as part of the **Lusophone Technological Wish
 - **Description:** Created a Python script that reads a list of URLs from a `.csv` file and prints the HTTP status code of the response for each, enabling quick checks of URL accessibility.
 
 - **Tools & Technologies Used:**  
-  1. Python  
-  2. `csv` module  
-  3. `requests` library (for handling HTTP requests)  
-  4. Google Colab  
+1. Python  
+2. `csv` module  
+3. `requests` library (for handling HTTP requests)  
+4. Google Colab  
