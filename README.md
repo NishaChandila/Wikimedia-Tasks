@@ -8,6 +8,7 @@ This repository includes work done as part of the **Lusophone Technological Wish
 - **Phabricator Link:** [T389647](https://phabricator.wikimedia.org/T389647)  
 - **Description:**  
   Developed a JavaScript script to manipulate a JSON object and print it in a human-readable format for better clarity and presentation.
+ *To test the script, open `Task1.html` in a browser and check the results in the web page or the browser console using Developer Tools (Inspect Element > Console).*
 
 ## [Task 2: Python URL Status Checker](https://github.com/NishaChandila/Wikimedia-Tasks/tree/main/Task2)
 
